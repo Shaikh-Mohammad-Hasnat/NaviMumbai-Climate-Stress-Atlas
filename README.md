@@ -51,7 +51,6 @@ queries/                         Query_A1..A5, S1..S6 (PNG) plus summary CSV and
 gee/                             5 Google Earth Engine scripts (LST, NDVI, built-up, terrain, ward statistics) with a README
 scripts/                         Python and PyQGIS scripts used to build the data and the QGIS project
 report/                          practical report (PDF) and all maps and queries in one PDF
-presentation/                    slides and a plain-language guide
 ```
 
 The QGIS project was built and tested with QGIS 4.2, and QGIS 3.34 or newer should also open it. The CRS is WGS 84 / UTM zone 43N (EPSG:32643).
